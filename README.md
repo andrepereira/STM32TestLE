@@ -1,4 +1,4 @@
-# TesteLE
+# TestLE
 
 This litle project blink a led by a hardware interrupt started by a push button that wakeup the STM32F411 Black Pill board from sleep mode low energy state.
 
