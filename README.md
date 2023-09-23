@@ -7,3 +7,5 @@ The pin of push button in this project is GPIO_PIN_15.
 The ping of onboard led is GPIO_PIN_13.
 
 Main file:  Core/Src/main.c
+
+In active development.
